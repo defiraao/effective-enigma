@@ -1,0 +1,12 @@
+{
+  "url": "",
+  "name": "VPN Telegram Bot",
+  "iconUrl": "",
+  "termsOfUseUrl": "",
+  "privacyPolicyUrl": "",
+  "platforms": ["ios", "android", "web", "desktop"],
+  "about": {
+    "ru": "Бот для предоставления VPN-сервиса с проверкой токенов через интеграцию с TON Connect.",
+    "en": "Bot for providing VPN service with token verification via TON Connect integration."
+  }
+} 
